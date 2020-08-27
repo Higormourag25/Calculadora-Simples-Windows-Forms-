@@ -1,0 +1,2 @@
+Simple calculator, with only addition, subtraction, multiplication and division functions.
+made with windows forms.

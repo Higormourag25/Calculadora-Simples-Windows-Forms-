@@ -1,0 +1,10 @@
+C:\Users\Familia\Documents\Poo2Pratica\Aula01\obj\Debug\Aula01.csprojAssemblyReference.cache
+C:\Users\Familia\Documents\Poo2Pratica\Aula01\obj\Debug\Aula01.Form1.resources
+C:\Users\Familia\Documents\Poo2Pratica\Aula01\obj\Debug\Aula01.Properties.Resources.resources
+C:\Users\Familia\Documents\Poo2Pratica\Aula01\obj\Debug\Aula01.csproj.GenerateResource.cache
+C:\Users\Familia\Documents\Poo2Pratica\Aula01\obj\Debug\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Documents\Poo2Pratica\Aula01\bin\Debug\Aula01.exe.config
+C:\Users\Familia\Documents\Poo2Pratica\Aula01\bin\Debug\Aula01.exe
+C:\Users\Familia\Documents\Poo2Pratica\Aula01\bin\Debug\Aula01.pdb
+C:\Users\Familia\Documents\Poo2Pratica\Aula01\obj\Debug\Aula01.exe
+C:\Users\Familia\Documents\Poo2Pratica\Aula01\obj\Debug\Aula01.pdb
